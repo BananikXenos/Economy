@@ -1,0 +1,9 @@
+# Symbol of currency
+currency-icon = "₩"
+# Starting balance of player
+starting-balance = 500.0
+# Minimum to withdraw
+min-to-withdraw = 50.0
+# Percentage of money to keep after players death
+percentage-on-death = 90.0
+

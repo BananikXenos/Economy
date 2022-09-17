@@ -1,0 +1,7 @@
+name: Economy
+version: '${project.version}'
+main: xyz.synse.economy.Economy
+api-version: 1.19
+load: STARTUP
+authors: [ Synse ]
+description: My economy plugin
